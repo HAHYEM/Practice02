@@ -15,7 +15,6 @@ public class Problem05 {
 					temp = (int) ((Math.random() * 45) + 1);
 					random[i] = temp;
 					j=0;
-					break;
 				}
 			}
 			System.out.print(random[i] + "   ");
